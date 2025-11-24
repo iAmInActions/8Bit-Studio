@@ -1,0 +1,18 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE Files
+.vscode/
+.idea/
+
+# Audio Output
+*.wav
+
+# System Files
+.DS_Store
